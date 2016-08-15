@@ -1,9 +1,0 @@
-
-
-point estimate - 1 average of 1 sample 
-
-
-
-Sample Standard Deviation = σ / √ n
-Standard Error = σ / √ n
-margin of error = 2( σ / √ n) 
