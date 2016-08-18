@@ -17,3 +17,4 @@ https://s3.amazonaws.com/udacity-hosted-downloads/t-table.jpg
 
 t Critical Value Calculator
 http://www.danielsoper.com/statcalc/calculator.aspx?id=10
+
