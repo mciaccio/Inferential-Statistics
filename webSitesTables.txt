@@ -5,8 +5,15 @@ https://s3.amazonaws.com/udacity-hosted-downloads/ZTable.jpg
 z statistic calculator 
 http://in-silico.net/tools/statistics/ztest
 
-z statistic calculator preferred 
+GRAPHPAD
 http://www.graphpad.com/quickcalcs/pValue2/
 
 z Critical Value calculator
 https://www.easycalculation.com/statistics/z-critical-value.php
+
+t table t distribution Critical Values in body of table
+	area RIGHT tail
+https://s3.amazonaws.com/udacity-hosted-downloads/t-table.jpg
+
+t Critical Value Calculator
+http://www.danielsoper.com/statcalc/calculator.aspx?id=10
