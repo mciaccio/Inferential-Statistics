@@ -16,5 +16,6 @@ t table t distribution Critical Values in body of table
 https://s3.amazonaws.com/udacity-hosted-downloads/t-table.jpg
 
 t Critical Value Calculator
-http://www.danielsoper.com/statcalc/calculator.aspx?id=10
+worked 23 August 2016
+http://www.danielsoper.com/statcalc/calculator.aspx?id=10 
 
