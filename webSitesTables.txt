@@ -17,5 +17,10 @@ https://s3.amazonaws.com/udacity-hosted-downloads/t-table.jpg
 
 t Critical Value Calculator
 worked 23 August 2016
-http://www.danielsoper.com/statcalc/calculator.aspx?id=10 
+http://www.danielsoper.com/statcalc/calculator.aspx?id=10
+
+F Distribution Tables
+http://www.socr.ucla.edu/applets.dir/f_table.html
+http://www.socr.ucla.edu/applets.dir/f_table.html calculator
+	Agrees with table - try this one
 
